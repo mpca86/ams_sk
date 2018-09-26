@@ -301,7 +301,7 @@ mysqli_close();
       });
       console.timeEnd('line');
 
-</script>
+    </script>
 
  </body>
 </html>
